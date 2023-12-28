@@ -10,4 +10,6 @@ How to deploy in the local machine:
 
 
     docker build -t TaskTracker-ToDoList .
+
+
     docker run -p 5000:5000 TaskTracker-ToDoList
